@@ -1,7 +1,7 @@
-/node_modules
-bundle.js
-npm-debug.log
+/api-server/node_modules
+/api-server/config.js
+/api-server/.gitignore
 
-# IntelliJ
-*.iml
-/.idea
+/frontend/node_modules
+/frontend/bundle.js
+/frontend/npm-debug.log
